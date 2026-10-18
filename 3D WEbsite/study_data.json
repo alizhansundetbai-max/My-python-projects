@@ -1,0 +1,16 @@
+{
+    "cards": [
+        {
+            "term": "Яблока",
+            "def": "Яблока"
+        },
+        {
+            "term": "Алманың ағылшыншасы?",
+            "def": "Apple"
+        }
+    ],
+    "notes": [
+        "Яблока-Apple",
+        "Hello apple is fruit"
+    ]
+}
